@@ -1,6 +1,6 @@
-# Innovative Tech Alliance
+# Tech Innovators
 
-Welcome to the **Innovative Tech Alliance** GitHub repository! 🚀
+Welcome to the **Tech Innovators** GitHub repository! 🚀
 
 ## About Us
 
@@ -18,5 +18,5 @@ We are a community dedicated to advancing technology through collaborative, open
 2. **Contribute**: Check out the contribution guidelines in each repository and start collaborating. ✨
 3. **Connect**: Join our [WhatsApp group](https://chat.whatsapp.com/F8aUsZ3IoBYD8sN7LZWBXG) to stay updated and interact with fellow members. 💬
 
-Thank you for being a part of the Innovative Tech Alliance. Let’s build the future of technology together! 🌟
+Thank you for being a part of the Tech Innovators. Let’s build the future of technology together! 🌟
 
